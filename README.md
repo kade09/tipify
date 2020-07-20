@@ -32,9 +32,7 @@ Here's a walkthrough of implemented user stories:
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
-
-Describe any challenges encountered while building the app.
-
+I didnt really have any challenges. The video tutorial was very clear and helpful.
 ## License
 
     Copyright [yyyy] [name of copyright owner]
