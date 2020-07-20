@@ -15,6 +15,9 @@
 		04EE298A24C64905006E9BC1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04EE298824C64905006E9BC1 /* LaunchScreen.storyboard */; };
 		04EE299524C64905006E9BC1 /* tipifyTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04EE299424C64905006E9BC1 /* tipifyTests.swift */; };
 		04EE29A024C64905006E9BC1 /* tipifyUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04EE299F24C64905006E9BC1 /* tipifyUITests.swift */; };
+		04EE29AE24C65A94006E9BC1 /* Tipify2.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04EE29AD24C65A94006E9BC1 /* Tipify2.storyboard */; };
+		04EE29AF24C65A94006E9BC1 /* Tipify2.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04EE29AD24C65A94006E9BC1 /* Tipify2.storyboard */; };
+		04EE29B024C65A94006E9BC1 /* Tipify2.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04EE29AD24C65A94006E9BC1 /* Tipify2.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +52,7 @@
 		04EE299B24C64905006E9BC1 /* tipifyUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = tipifyUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		04EE299F24C64905006E9BC1 /* tipifyUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tipifyUITests.swift; sourceTree = "<group>"; };
 		04EE29A124C64905006E9BC1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		04EE29AD24C65A94006E9BC1 /* Tipify2.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Tipify2.storyboard; path = ../Tipify2.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +83,7 @@
 		04EE297124C648FA006E9BC1 = {
 			isa = PBXGroup;
 			children = (
+				04EE29AD24C65A94006E9BC1 /* Tipify2.storyboard */,
 				04EE297C24C648FB006E9BC1 /* tipify */,
 				04EE299324C64905006E9BC1 /* tipifyTests */,
 				04EE299E24C64905006E9BC1 /* tipifyUITests */,
@@ -232,6 +237,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				04EE29AE24C65A94006E9BC1 /* Tipify2.storyboard in Resources */,
 				04EE298A24C64905006E9BC1 /* LaunchScreen.storyboard in Resources */,
 				04EE298724C64905006E9BC1 /* Assets.xcassets in Resources */,
 				04EE298524C648FB006E9BC1 /* Main.storyboard in Resources */,
@@ -242,6 +248,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				04EE29AF24C65A94006E9BC1 /* Tipify2.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -249,6 +256,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				04EE29B024C65A94006E9BC1 /* Tipify2.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
